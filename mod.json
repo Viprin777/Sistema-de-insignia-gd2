@@ -1,0 +1,14 @@
+{
+    "geode": "3.0.0",
+    "version": "1.0.0",
+    "id": "indominusrex.custom_badges",
+    "name": "Custom Badge System",
+    "developer": "IndominusRex",
+    "description": "Sistema de badges personalizadas (Owner, Developer, Moderator, etc.) estilizadas como la badge oficial de moderador de Geometry Dash.",
+    "supported-platforms": [
+        "windows",
+        "mac",
+        "android32",
+        "android64"
+    ]
+}
